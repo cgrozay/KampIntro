@@ -19,7 +19,7 @@ foreach (var sayi in sayilar1)
 {
     Console.WriteLine(sayi);
     //merhaba
-
+    //burasıda tamam 
 
 }
 
